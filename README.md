@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Let's Connect and have a Chat!:speech_balloon:
+  Let's Connect and have a Chat! :speech_balloon:
 </h1>
 
 <div id="badges" align="center">
