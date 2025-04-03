@@ -57,7 +57,7 @@ I am a Full Stack Engineer from Dhaka, Bangladesh.
 ---
 ### :fire: My Stats :
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MUJAHID-WEB&theme=calm&border_radius=8.4" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=paponkoushik&theme=calm&border_radius=8.4" alt="GitHub Streak" /></a>
 
 ![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=paponkoushik&show_icons=true&theme=transparent)  &nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paponkoushik&hide_progress=true)
 
