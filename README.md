@@ -40,14 +40,12 @@ I am a Full Stack Engineer from Dhaka, Bangladesh.
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;
-  
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/> &nbsp;&nbsp;
 </div>
 ---
 ### :fire: My Stats :
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MUJAHID-WEB&theme=calm&border_radius=8.4" alt="GitHub Streak" /></a>
-![Mujahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUJAHID-WEB&show_icons=true&theme=transparent)  &nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUJAHID-WEB&hide_progress=true)
+![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=paponkoushik&show_icons=true&theme=transparent)  &nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paponkoushik&hide_progress=true)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
