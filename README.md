@@ -1,9 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi!&nbsp;from&nbsp;Koushik Balo!&height=100&section=header"/>
 </p>
+
 <h1 align="center">
   Let's Connect and have a Chat!:speech_balloon:
 </h1>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/koushik-balo-718b7b176/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
