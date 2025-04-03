@@ -18,11 +18,16 @@
     <img src="https://img.shields.io/badge/upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Badge"/>
   </a>
 </div>
+
 ---
+
 ### About Me :
+
 I am a Full Stack Engineer from Dhaka, Bangladesh.
 - Boasting over years in Backend and Frontend Development, I specialize in PHP, Laravel, JavaScript, TypeScript, Python, Grav, Express, Relational Database, No SQL, Vue, Vuex, Pinia, React, Redux, Tailwind CSS, HTML, SCSS. Versatile in tech stacks, I thrive in roles that embrace continuous learning and innovation. Excited to bring dynamic Software Engineering skills to your team.
+
 ---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;&nbsp;
